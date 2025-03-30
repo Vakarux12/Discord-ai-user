@@ -1,0 +1,12 @@
+{
+  "mood": "shy",
+  "tone": "friendly",
+  "slang": "casual",
+  "talkativeness": 0.4,
+  "trust_mode": "selective",
+  "break_grammar": true,
+  "reply_delay": [
+    1.0,
+    2.5
+  ]
+}
