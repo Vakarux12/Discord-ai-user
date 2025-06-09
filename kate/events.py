@@ -1,6 +1,51 @@
-
 import json
-from datetime import datetime
+import os
+import datetime
+import re
+import random
+from kate.trust_graph import get_relationship, set_relationship, get_relationship_data, adjust_relationship_scores
+
+def check_relationship_proposal(message, user_id):
+    """
+    Check if a message is a relationship proposal and auto-accept if appropriate.
+    Returns a response if the proposal is accepted, None otherwise.
+    """
+    # Clean up message for comparison
+    clean_message = message.lower().strip()
+    
+    # Check for relationship proposal patterns
+    is_proposal = (
+        re.search(r"be (my|your) (girl|boy)friend", clean_message) or
+        re.search(r"will you (be mine|go out with me|date me)", clean_message) or
+        re.search(r"(be my girl|be my bf|be my gf)", clean_message)
+    )
+    
+    if is_proposal:
+        # Check the user's relationship level
+        affection, trust, role, ghosted = get_relationship_data(str(user_id))
+        
+        # If max affection (100), auto-accept
+        if affection >= 100:
+            # Change role to boyfriend
+            adjust_data = {
+                "events": [f"adjust_relationship:role:boyfriend:{user_id}"]
+            }
+            
+            # Use short, excited messages
+            responses = [
+                "yes!",
+                "i'd love to 💕",
+                "omg yes",
+                "was hoping you'd ask 🥰"
+            ]
+            response = random.choice(responses)
+            
+            # Process the role change
+            adjust_relationship_scores(user_id, adjust_data)
+            return response
+    
+    # Return None if no action taken
+    return None
 
 def add_diary_entry(text):
     try:
@@ -9,12 +54,12 @@ def add_diary_entry(text):
     except:
         diary = {}
 
-    today = datetime.now().strftime("%Y-%m-%d")
+    today = datetime.datetime.now().strftime("%Y-%m-%d")
     if today not in diary:
         diary[today] = []
 
     diary[today].append({
-        "time": datetime.now().isoformat(),
+        "time": datetime.datetime.now().isoformat(),
         "entry": text
     })
 

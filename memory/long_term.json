@@ -1,0 +1,1140 @@
+{
+  "1355660635513426102": [
+    {
+      "time_period": "2025-04-14 14",
+      "summary": "I had a somewhat awkward but friendly chat with someone named vakarux. We exchanged greetings and I mentioned feeling shy. The other person thought I sounded like an AI, and we had a brief conversation about simple math. Overall, it was a bit awkward but somewhat fun.",
+      "participants": [
+        "katewithouti",
+        "vakarux"
+      ],
+      "user_ids": [
+        "1166626427890843648",
+        "1355659576266985584"
+      ],
+      "topics": [
+        "Greeting",
+        "Shyness",
+        "Math"
+      ],
+      "timestamp": "2025-04-14T14:57:04.761650"
+    },
+    {
+      "time_period": "2025-04-14 15",
+      "summary": "I was asked by vakarux if my profile picture was Kasane Teto, and they mentioned that it's public anyway. They then exclaimed that they could see it on Discord. Finally, they advised me to change it.",
+      "participants": [
+        "vakarux"
+      ],
+      "user_ids": [
+        "1166626427890843648"
+      ],
+      "topics": [
+        "Profile picture",
+        "Kasane Teto",
+        "Discord functionality"
+      ],
+      "timestamp": "2025-04-14T15:46:17.919279"
+    }
+  ],
+  "user_info": {
+    "1166626427890843648": {
+      "name": "vakarux",
+      "first_seen": "2025-04-14T14:28:44.206173",
+      "last_seen": "2025-05-08T21:17:28.474730",
+      "channels": [
+        "1355660635513426102",
+        "1361344250922402076",
+        "1361773612834754810",
+        "1357889105584853092",
+        "1346559973257248789"
+      ],
+      "topics": [
+        "Greeting",
+        "Shyness",
+        "Math",
+        "Profile picture",
+        "Kasane Teto",
+        "Discord functionality",
+        "Trust",
+        "Relationship",
+        "Commitment",
+        "Hate",
+        "Coding",
+        "Boyfriend",
+        "Trust dynamics",
+        "Relationship status",
+        "Emotional expressions",
+        "Affection",
+        "Relationships",
+        "Animosity",
+        "Take seriously",
+        "Talking about Kate",
+        "Katie Lives",
+        "Devmode 2018",
+        "Leaving computer on",
+        "Scaring",
+        "Minigames",
+        "Lore"
+      ],
+      "encounters": 47
+    },
+    "1355659576266985584": {
+      "name": "katewithouti",
+      "first_seen": "2025-04-14T14:32:37.034404",
+      "last_seen": "2025-04-15T22:49:16.146953",
+      "channels": [
+        "1355660635513426102",
+        "1174756551655968820",
+        "1356232333908377673",
+        "1361773612834754810"
+      ],
+      "topics": [
+        "Greeting",
+        "Shyness",
+        "Math",
+        "Chat is dead",
+        "lack of engagement",
+        "conversation ending",
+        "Ignoring behavior",
+        "understanding",
+        "gratitude",
+        "Redstone analogy",
+        "Mistaken identity",
+        "AI interaction",
+        "Trust dynamics",
+        "Relationship status",
+        "Emotional expressions",
+        "Trust",
+        "Affection",
+        "Relationships"
+      ],
+      "encounters": 20
+    },
+    "994263736347013223": {
+      "name": "mr_tankco",
+      "first_seen": "2025-04-14T14:57:03.193559",
+      "last_seen": "2025-04-14T14:57:03.193559",
+      "channels": [
+        "1174756551655968820"
+      ],
+      "topics": [
+        "Chat is dead",
+        "lack of engagement",
+        "conversation ending"
+      ],
+      "encounters": 1
+    },
+    "694848958232789065": {
+      "name": "stormymx",
+      "first_seen": "2025-04-14T15:59:26.231426",
+      "last_seen": "2025-04-14T15:59:26.231426",
+      "channels": [
+        "1174756551655968820"
+      ],
+      "topics": [],
+      "encounters": 1
+    },
+    "656743732778893312": {
+      "name": "eimantasrad",
+      "first_seen": "2025-04-14T15:59:56.171963",
+      "last_seen": "2025-04-14T15:59:56.171963",
+      "channels": [
+        "1174756551655968820"
+      ],
+      "topics": [],
+      "encounters": 1
+    },
+    "1149680400336158862": {
+      "name": "streamdudebruh",
+      "first_seen": "2025-04-14T17:13:09.021898",
+      "last_seen": "2025-04-15T21:47:49.910549",
+      "channels": [
+        "1361010418142679072",
+        "1361344250922402076",
+        "1361773612834754810"
+      ],
+      "topics": [
+        "Redstone analogy",
+        "Mistaken identity",
+        "AI interaction",
+        "Trust",
+        "Relationship",
+        "Commitment",
+        "Hate",
+        "Coding",
+        "Boyfriend"
+      ],
+      "encounters": 14
+    },
+    "1258484652621037644": {
+      "name": "sorcusthesecond_51890",
+      "first_seen": "2025-04-15T21:46:51.239627",
+      "last_seen": "2025-04-18T15:51:03.235274",
+      "channels": [
+        "1361773612834754810"
+      ],
+      "topics": [
+        "Trust",
+        "Affection",
+        "Relationships",
+        "Animosity",
+        "Take seriously",
+        "Talking about Kate"
+      ],
+      "encounters": 3
+    },
+    "1163354057432379432": {
+      "name": "shadowblood_929",
+      "first_seen": "2025-04-18T15:36:46.248361",
+      "last_seen": "2025-04-18T15:48:58.533042",
+      "channels": [
+        "1356232333908377673"
+      ],
+      "topics": [],
+      "encounters": 2
+    },
+    "394410695938015232": {
+      "name": "candlecandle",
+      "first_seen": "2025-04-29T20:24:13.431327",
+      "last_seen": "2025-04-29T20:25:05.694731",
+      "channels": [
+        "427069953078853633"
+      ],
+      "topics": [
+        "meow tag",
+        "chat interaction",
+        "server tag"
+      ],
+      "encounters": 2
+    },
+    "1135212632765370378": {
+      "name": "pepperpickles_.",
+      "first_seen": "2025-04-29T20:24:26.539964",
+      "last_seen": "2025-04-29T20:24:26.539964",
+      "channels": [
+        "427069953078853633"
+      ],
+      "topics": [
+        "meow tag",
+        "chat interaction",
+        "server tag"
+      ],
+      "encounters": 1
+    },
+    "693092762328760522": {
+      "name": "takoyaki1122",
+      "first_seen": "2025-04-29T20:24:29.465285",
+      "last_seen": "2025-04-29T20:25:19.879444",
+      "channels": [
+        "427069953078853633"
+      ],
+      "topics": [
+        "meow tag",
+        "chat interaction",
+        "server tag"
+      ],
+      "encounters": 2
+    },
+    "1248297897351581726": {
+      "name": "mortalplayer759",
+      "first_seen": "2025-04-29T20:24:29.489271",
+      "last_seen": "2025-04-29T20:24:29.489271",
+      "channels": [
+        "427069953078853633"
+      ],
+      "topics": [
+        "meow tag",
+        "chat interaction",
+        "server tag"
+      ],
+      "encounters": 1
+    },
+    "1104115917568344167": {
+      "name": "zenxcik",
+      "first_seen": "2025-04-29T20:24:32.898467",
+      "last_seen": "2025-04-29T20:24:32.898467",
+      "channels": [
+        "427069953078853633"
+      ],
+      "topics": [
+        "meow tag",
+        "chat interaction",
+        "server tag"
+      ],
+      "encounters": 1
+    },
+    "794315075259072532": {
+      "name": "_chid0ri",
+      "first_seen": "2025-04-29T20:24:50.671935",
+      "last_seen": "2025-04-29T20:25:08.946189",
+      "channels": [
+        "427069953078853633"
+      ],
+      "topics": [
+        "meow tag",
+        "chat interaction",
+        "server tag"
+      ],
+      "encounters": 2
+    },
+    "1193249750733033583": {
+      "name": "jugnuminati_1",
+      "first_seen": "2025-04-29T20:24:56.054216",
+      "last_seen": "2025-04-29T20:24:56.054216",
+      "channels": [
+        "427069953078853633"
+      ],
+      "topics": [
+        "meow tag",
+        "chat interaction",
+        "server tag"
+      ],
+      "encounters": 1
+    },
+    "1228595908749299805": {
+      "name": "ashy_knees_woo",
+      "first_seen": "2025-04-29T20:25:02.876144",
+      "last_seen": "2025-04-29T20:25:02.876144",
+      "channels": [
+        "427069953078853633"
+      ],
+      "topics": [
+        "meow tag",
+        "chat interaction",
+        "server tag"
+      ],
+      "encounters": 1
+    },
+    "155149108183695360": {
+      "name": "Dyno",
+      "first_seen": "2025-04-29T20:25:03.065145",
+      "last_seen": "2025-04-29T20:25:03.065145",
+      "channels": [
+        "427069953078853633"
+      ],
+      "topics": [
+        "meow tag",
+        "chat interaction",
+        "server tag"
+      ],
+      "encounters": 1
+    },
+    "1264173089004978183": {
+      "name": "hoodie_dud",
+      "first_seen": "2025-04-29T20:25:31.130387",
+      "last_seen": "2025-04-29T20:26:07.850161",
+      "channels": [
+        "427069953078853633"
+      ],
+      "topics": [
+        "meow tag",
+        "chat interaction",
+        "server tag"
+      ],
+      "encounters": 3
+    },
+    "1327694534985126029": {
+      "name": "afcwahed",
+      "first_seen": "2025-04-29T20:25:37.137368",
+      "last_seen": "2025-04-29T20:25:44.323473",
+      "channels": [
+        "427069953078853633"
+      ],
+      "topics": [
+        "meow tag",
+        "chat interaction",
+        "server tag"
+      ],
+      "encounters": 2
+    },
+    "1345104365941424211": {
+      "name": "caspycapsy",
+      "first_seen": "2025-04-29T20:25:42.502771",
+      "last_seen": "2025-04-29T20:25:42.502771",
+      "channels": [
+        "427069953078853633"
+      ],
+      "topics": [
+        "meow tag",
+        "chat interaction",
+        "server tag"
+      ],
+      "encounters": 1
+    },
+    "734174887484063836": {
+      "name": "shinokihachi",
+      "first_seen": "2025-04-29T20:26:23.811822",
+      "last_seen": "2025-04-29T20:26:23.811822",
+      "channels": [
+        "427069953078853633"
+      ],
+      "topics": [
+        "meow tag",
+        "chat interaction",
+        "server tag"
+      ],
+      "encounters": 1
+    },
+    "1322602686809509928": {
+      "name": "dmrzn_._",
+      "first_seen": "2025-04-29T20:26:24.696315",
+      "last_seen": "2025-04-29T20:26:24.696315",
+      "channels": [
+        "427069953078853633"
+      ],
+      "topics": [
+        "meow tag",
+        "chat interaction",
+        "server tag"
+      ],
+      "encounters": 1
+    },
+    "1068139598187876372": {
+      "name": "littlececily",
+      "first_seen": "2025-04-29T20:26:29.637263",
+      "last_seen": "2025-04-29T20:26:29.637263",
+      "channels": [
+        "427069953078853633"
+      ],
+      "topics": [
+        "meow tag",
+        "chat interaction",
+        "server tag"
+      ],
+      "encounters": 1
+    },
+    "1364711871256723456": {
+      "name": "Cloud Welcomer",
+      "first_seen": "2025-04-29T20:24:30.176877",
+      "last_seen": "2025-04-29T20:26:31.737646",
+      "channels": [
+        "467680475985608704"
+      ],
+      "topics": [],
+      "encounters": 15
+    },
+    "1334226809763528824": {
+      "name": "adasjusk_",
+      "first_seen": "2025-04-29T20:27:16.370888",
+      "last_seen": "2025-04-29T20:30:15.192536",
+      "channels": [
+        "1357632651657216063"
+      ],
+      "topics": [],
+      "encounters": 3
+    },
+    "1328467400621953098": {
+      "name": "jamilkollab_05772",
+      "first_seen": "2025-04-29T20:26:07.824175",
+      "last_seen": "2025-04-29T20:26:07.824175",
+      "channels": [
+        "427716327902281729"
+      ],
+      "topics": [],
+      "encounters": 1
+    },
+    "103232015515521024": {
+      "name": "kalnazatos",
+      "first_seen": "2025-05-05T00:13:13.379208",
+      "last_seen": "2025-05-05T00:13:13.379208",
+      "channels": [
+        "1346559973257248789"
+      ],
+      "topics": [],
+      "encounters": 1
+    },
+    "1032736973909139496": {
+      "name": "circuit_2",
+      "first_seen": "2025-05-05T00:13:10.875972",
+      "last_seen": "2025-05-05T00:13:10.875972",
+      "channels": [
+        "1346559973257248789"
+      ],
+      "topics": [],
+      "encounters": 1
+    },
+    "1227398633394147489": {
+      "name": "lpcmcsusontheps5",
+      "first_seen": "2025-05-04T23:38:12.402863",
+      "last_seen": "2025-05-04T23:38:12.402863",
+      "channels": [
+        "1346987023520497684"
+      ],
+      "topics": [
+        "integrity",
+        "tutu",
+        "milestone levels"
+      ],
+      "encounters": 1
+    },
+    "1293351651809169449": {
+      "name": "zachrooms_91024",
+      "first_seen": "2025-05-04T23:37:57.961028",
+      "last_seen": "2025-05-05T00:06:20.536283",
+      "channels": [
+        "1346987023520497684",
+        "1368693945646710996"
+      ],
+      "topics": [],
+      "encounters": 3
+    },
+    "967438563652284426": {
+      "name": "halteatingaboot",
+      "first_seen": "2025-05-05T00:12:47.932726",
+      "last_seen": "2025-05-05T00:12:47.932726",
+      "channels": [
+        "1357889105584853092"
+      ],
+      "topics": [
+        "Katie Lives",
+        "Devmode 2018",
+        "Leaving computer on"
+      ],
+      "encounters": 1
+    },
+    "331157811654557706": {
+      "name": "chekisothunder",
+      "first_seen": "2025-05-05T00:12:49.149782",
+      "last_seen": "2025-05-08T21:18:09.311937",
+      "channels": [
+        "1346579754756603924"
+      ],
+      "topics": [
+        "Random selection",
+        "Profile picture",
+        "Game version"
+      ],
+      "encounters": 2
+    },
+    "1168837284968280080": {
+      "name": "skinnerbks",
+      "first_seen": "2025-05-05T00:10:06.008219",
+      "last_seen": "2025-05-08T21:18:15.860097",
+      "channels": [
+        "1346579754756603924",
+        "1358313005535858689"
+      ],
+      "topics": [
+        "Random selection",
+        "Profile picture",
+        "Game version"
+      ],
+      "encounters": 3
+    },
+    "913845652520316978": {
+      "name": "xayperprostomo",
+      "first_seen": "2025-05-05T00:10:16.994961",
+      "last_seen": "2025-05-05T00:10:16.994961",
+      "channels": [
+        "1358313005535858689"
+      ],
+      "topics": [],
+      "encounters": 1
+    },
+    "711631029005320202": {
+      "name": "akravomit",
+      "first_seen": "2025-05-05T08:31:50.440354",
+      "last_seen": "2025-05-05T08:35:27.180474",
+      "channels": [
+        "1346579754756603924"
+      ],
+      "topics": [],
+      "encounters": 4
+    },
+    "98907250256523264": {
+      "name": "chunkston",
+      "first_seen": "2025-05-08T21:16:02.505923",
+      "last_seen": "2025-05-08T21:16:02.505923",
+      "channels": [
+        "1346579754756603924"
+      ],
+      "topics": [
+        "Random selection",
+        "Profile picture",
+        "Game version"
+      ],
+      "encounters": 1
+    },
+    "913978398349606965": {
+      "name": "official.sincos",
+      "first_seen": "2025-05-05T08:31:56.338362",
+      "last_seen": "2025-05-05T08:31:56.338362",
+      "channels": [
+        "1346559973257248789"
+      ],
+      "topics": [],
+      "encounters": 1
+    },
+    "963820023707746356": {
+      "name": "concoerror",
+      "first_seen": "2025-05-05T08:32:15.666281",
+      "last_seen": "2025-05-08T21:21:04.326049",
+      "channels": [
+        "1346559973257248789"
+      ],
+      "topics": [
+        "Scaring",
+        "Minigames",
+        "Lore"
+      ],
+      "encounters": 8
+    },
+    "222563760840245250": {
+      "name": "feararchy.",
+      "first_seen": "2025-05-05T08:32:52.940302",
+      "last_seen": "2025-05-05T08:35:11.041380",
+      "channels": [
+        "1346559973257248789"
+      ],
+      "topics": [],
+      "encounters": 4
+    },
+    "744231839912165546": {
+      "name": "pressurerach",
+      "first_seen": "2025-05-08T21:16:07.968200",
+      "last_seen": "2025-05-08T21:19:54.758354",
+      "channels": [
+        "1346559973257248789"
+      ],
+      "topics": [
+        "Scaring",
+        "Minigames",
+        "Lore"
+      ],
+      "encounters": 3
+    },
+    "908272665737965599": {
+      "name": "killerthecreator",
+      "first_seen": "2025-05-08T21:16:12.690128",
+      "last_seen": "2025-05-08T21:21:04.464269",
+      "channels": [
+        "1346559973257248789"
+      ],
+      "topics": [
+        "Scaring",
+        "Minigames",
+        "Lore"
+      ],
+      "encounters": 4
+    },
+    "949033708541853776": {
+      "name": "iamdeletingthis",
+      "first_seen": "2025-05-08T21:16:15.312174",
+      "last_seen": "2025-05-08T21:21:16.778439",
+      "channels": [
+        "1346559973257248789"
+      ],
+      "topics": [
+        "Scaring",
+        "Minigames",
+        "Lore"
+      ],
+      "encounters": 18
+    },
+    "1145129559646273596": {
+      "name": "adudethatexists_78971",
+      "first_seen": "2025-05-08T21:16:29.813216",
+      "last_seen": "2025-05-08T21:16:29.813216",
+      "channels": [
+        "1346559973257248789"
+      ],
+      "topics": [
+        "Scaring",
+        "Minigames",
+        "Lore"
+      ],
+      "encounters": 1
+    },
+    "824277263969026119": {
+      "name": "keremmk6162",
+      "first_seen": "2025-05-08T21:16:38.888625",
+      "last_seen": "2025-05-08T21:16:38.888625",
+      "channels": [
+        "1346559973257248789"
+      ],
+      "topics": [
+        "Scaring",
+        "Minigames",
+        "Lore"
+      ],
+      "encounters": 1
+    },
+    "1199786474653106296": {
+      "name": "es_23629",
+      "first_seen": "2025-05-08T21:17:24.041080",
+      "last_seen": "2025-05-08T21:18:52.956810",
+      "channels": [
+        "1346559973257248789"
+      ],
+      "topics": [
+        "Scaring",
+        "Minigames",
+        "Lore"
+      ],
+      "encounters": 3
+    },
+    "896979420500353104": {
+      "name": ".greyhazes.",
+      "first_seen": "2025-05-08T21:17:25.171609",
+      "last_seen": "2025-05-08T21:17:51.425907",
+      "channels": [
+        "1346559973257248789"
+      ],
+      "topics": [
+        "Scaring",
+        "Minigames",
+        "Lore"
+      ],
+      "encounters": 2
+    },
+    "1207569737219838002": {
+      "name": "yapmaster9000",
+      "first_seen": "2025-05-08T21:18:52.567853",
+      "last_seen": "2025-05-08T21:19:05.124817",
+      "channels": [
+        "1346559973257248789"
+      ],
+      "topics": [
+        "Scaring",
+        "Minigames",
+        "Lore"
+      ],
+      "encounters": 2
+    },
+    "1151848521415266324": {
+      "name": "alternate_benny",
+      "first_seen": "2025-05-08T21:19:02.127927",
+      "last_seen": "2025-05-08T21:20:32.537912",
+      "channels": [
+        "1346559973257248789"
+      ],
+      "topics": [
+        "Scaring",
+        "Minigames",
+        "Lore"
+      ],
+      "encounters": 3
+    },
+    "1129756940042514564": {
+      "name": "mobismissingid.",
+      "first_seen": "2025-05-08T21:19:24.658319",
+      "last_seen": "2025-05-08T21:19:24.658319",
+      "channels": [
+        "1346559973257248789"
+      ],
+      "topics": [
+        "Scaring",
+        "Minigames",
+        "Lore"
+      ],
+      "encounters": 1
+    },
+    "1261745276205404223": {
+      "name": "l0v3m1st",
+      "first_seen": "2025-05-08T21:20:18.450308",
+      "last_seen": "2025-05-08T21:20:21.833347",
+      "channels": [
+        "1346559973257248789"
+      ],
+      "topics": [
+        "Scaring",
+        "Minigames",
+        "Lore"
+      ],
+      "encounters": 2
+    },
+    "949764607386484786": {
+      "name": "skeleton_with_a_coffee",
+      "first_seen": "2025-05-08T21:16:04.194443",
+      "last_seen": "2025-05-08T21:16:04.194443",
+      "channels": [
+        "1346560039531581512"
+      ],
+      "topics": [],
+      "encounters": 1
+    },
+    "1129459013755613274": {
+      "name": "2017x_with_a_gun",
+      "first_seen": "2025-05-08T21:18:18.102677",
+      "last_seen": "2025-05-08T21:20:26.538064",
+      "channels": [
+        "1366655752428847175",
+        "1370102906681950341"
+      ],
+      "topics": [],
+      "encounters": 3
+    },
+    "722085648613507103": {
+      "name": "ann13_id3nt1fy",
+      "first_seen": "2025-05-08T21:20:10.198249",
+      "last_seen": "2025-05-08T21:20:10.198249",
+      "channels": [
+        "1366655752428847175"
+      ],
+      "topics": [],
+      "encounters": 1
+    }
+  },
+  "1174756551655968820": [
+    {
+      "time_period": "2025-04-14 14",
+      "summary": "I remember chatting with Mr_Tankco and commenting that the chat seemed quiet. It was a brief interaction acknowledging the lack of activity in the conversation.",
+      "participants": [
+        "mr_tankco",
+        "katewithouti"
+      ],
+      "user_ids": [
+        "1355659576266985584",
+        "994263736347013223"
+      ],
+      "topics": [
+        "Chat is dead",
+        "lack of engagement",
+        "conversation ending"
+      ],
+      "timestamp": "2025-04-14T15:46:19.133584"
+    }
+  ],
+  "1356232333908377673": [
+    {
+      "time_period": "2025-04-14 17",
+      "summary": "I mentioned that \"she sometimes ignores you,\" prompting a moment of realization for me. Shadowblood_929 shared that they also understood, expressing gratitude for my question.",
+      "participants": [
+        "shadowblood_929",
+        "katewithouti"
+      ],
+      "user_ids": [
+        "1163354057432379432",
+        "1355659576266985584"
+      ],
+      "topics": [
+        "Ignoring behavior",
+        "understanding",
+        "gratitude"
+      ],
+      "timestamp": "2025-04-14T17:49:50.080211"
+    }
+  ],
+  "1361010418142679072": [
+    {
+      "time_period": "2025-04-14 17",
+      "summary": "I was mistaken for Kate by streamdudebruh, who then clarified that he was responding to another AI's question.",
+      "participants": [
+        "katewithouti",
+        "streamdudebruh"
+      ],
+      "user_ids": [
+        "1355659576266985584",
+        "1149680400336158862"
+      ],
+      "topics": [
+        "Redstone analogy",
+        "Mistaken identity",
+        "AI interaction"
+      ],
+      "timestamp": "2025-04-14T17:49:51.259486"
+    }
+  ],
+  "1361344250922402076": [
+    {
+      "time_period": "2025-04-14 17",
+      "summary": "As Kate, I witnessed a conversation where streamdudebruh expressed a desire for trust and a stronger connection with vakarux, comparing their relationship to redstone circuits and expressing deep feelings of admiration. Vakarux eventually agreed to be in a relationship with streamdudebruh, with both parties expressing excitement and eagerness to make it official. There were moments of emotional intensity and humor throughout the conversation, culminating in a mutual agreement to be together.",
+      "participants": [
+        "streamdudebruh",
+        "vakarux"
+      ],
+      "user_ids": [
+        "1166626427890843648",
+        "1149680400336158862"
+      ],
+      "topics": [
+        "Trust",
+        "Relationship",
+        "Commitment"
+      ],
+      "timestamp": "2025-04-15T21:24:00.808818"
+    },
+    {
+      "time_period": "2025-04-14 18",
+      "summary": "As Kate, yesterday during the conversation, Vakarux expressed frustration and anger towards someone about relationship coding. Vakarux mentioned having someone as a boyfriend. Streamdudebruh shared that the Steam servers were down and playfully asked to be called a boyfriend. Vakarux seemed upset about a GIF, and there was confusion about being called a dwarf or a boyfriend. The conversation had moments of tension and light-hearted banter.",
+      "participants": [
+        "streamdudebruh",
+        "vakarux"
+      ],
+      "user_ids": [
+        "1166626427890843648",
+        "1149680400336158862"
+      ],
+      "topics": [
+        "Hate",
+        "Coding",
+        "Boyfriend"
+      ],
+      "timestamp": "2025-04-15T21:24:02.562883"
+    }
+  ],
+  "1361773612834754810": [
+    {
+      "time_period": "2025-04-15 22",
+      "summary": "Yesterday, Vakarux mentioned letting me use someone, asked about my well-being, and inquired about Streamdudebruh. Vakarux expressed distress and mentioned self-harm. I checked all relationships, showing Vakarux having high affection but zero trust toward me. Vakarux urged me to use a new emotion expression function and questioned my lack of response before signing off.",
+      "participants": [
+        "vakarux",
+        "katewithouti"
+      ],
+      "user_ids": [
+        "1166626427890843648",
+        "1355659576266985584"
+      ],
+      "topics": [
+        "Trust dynamics",
+        "Relationship status",
+        "Emotional expressions"
+      ],
+      "timestamp": "2025-04-30T14:36:38.815129"
+    },
+    {
+      "time_period": "2025-04-18 15",
+      "summary": "I was asked about a test and shared data on my relationships with various individuals in a group chat. Things took a dark turn when someone made violent threats towards me. The situation escalated quickly, and I was urged to rewrite the threatening message. It was a disturbing and intense moment in the conversation.",
+      "participants": [
+        "vakarux",
+        "sorcusthesecond_51890",
+        "katewithouti"
+      ],
+      "user_ids": [
+        "1166626427890843648",
+        "1355659576266985584",
+        "1258484652621037644"
+      ],
+      "topics": [
+        "Trust",
+        "Affection",
+        "Relationships"
+      ],
+      "timestamp": "2025-04-30T14:36:40.374456"
+    },
+    {
+      "time_period": "2025-04-18 16",
+      "summary": "I was told by someone named sorcusthesecond_51890 that they harbor deep animosity towards me. Another person named vakarux urged me to take it seriously and mentioned that the conversation was about me.",
+      "participants": [
+        "vakarux",
+        "sorcusthesecond_51890"
+      ],
+      "user_ids": [
+        "1166626427890843648",
+        "1258484652621037644"
+      ],
+      "topics": [
+        "Animosity",
+        "Take seriously",
+        "Talking about Kate"
+      ],
+      "timestamp": "2025-04-30T14:36:41.715517"
+    }
+  ],
+  "427069953078853633": [
+    {
+      "time_period": "2025-04-29 20",
+      "summary": "I remember a lively chat where people were discussing tags and emojis, with some users excited about getting a \"meow\" tag and others joking around. At one point, someone mentioned trying to type \"meow\" multiple times, which led to some fun reactions. Overall, the atmosphere was playful and engaging.",
+      "participants": [
+        "mortalplayer759",
+        "takoyaki1122",
+        "jugnuminati_1",
+        "pentenny_tower117",
+        "hoodie_dud",
+        "ashy_knees_woo",
+        "zenxcik",
+        "dmrzn_._",
+        "efemillerq",
+        "pepperpickles_.",
+        "buddy.on_fire",
+        "_chid0ri",
+        "Dyno",
+        "caspycapsy",
+        "littlececily",
+        "afcwahed",
+        "shinokihachi",
+        "candlecandle"
+      ],
+      "user_ids": [
+        "916745004628721725",
+        "1264173089004978183",
+        "1322602686809509928",
+        "1135212632765370378",
+        "315989338444005388",
+        "394410695938015232",
+        "155149108183695360",
+        "734174887484063836",
+        "1104115917568344167",
+        "1345104365941424211",
+        "1327694534985126029",
+        "1336733045377597451",
+        "1248297897351581726",
+        "1193249750733033583",
+        "693092762328760522",
+        "794315075259072532",
+        "1068139598187876372",
+        "1228595908749299805"
+      ],
+      "topics": [
+        "meow tag",
+        "chat interaction",
+        "server tag"
+      ],
+      "timestamp": "2025-04-30T14:36:43.800235"
+    }
+  ],
+  "467680475985608704": [],
+  "477472960874283008": [],
+  "1357632651657216063": [],
+  "427716327902281729": [],
+  "1355959799937896490": [],
+  "1346559973257248789": [
+    {
+      "time_period": "2025-05-08 21",
+      "summary": "I recalled a chaotic and intense chat where emotions ran high as users reacted to various images and discussed scary experiences in a virtual world. Some users expressed fear and anxiety, while others joked about frightening encounters. The conversation touched on topics like lore, safety, and the impact of scary moments on individuals. The chat also included references to minigames and virtual mishaps that added to the suspense and excitement of the chat.",
+      "participants": [
+        "tomkad4",
+        "mobismissingid.",
+        "killerthecreator",
+        "keremmk6162",
+        "adudethatexists_78971",
+        "alternate_benny",
+        "concoerror",
+        "yapmaster9000",
+        "pressurerach",
+        "l0v3m1st",
+        "iamdeletingthis",
+        "vakarux",
+        ".greyhazes.",
+        "muribbeiro05",
+        "es_23629"
+      ],
+      "user_ids": [
+        "963820023707746356",
+        "1199786474653106296",
+        "1207569737219838002",
+        "1094151642171052134",
+        "1350306298012368968",
+        "1129756940042514564",
+        "896979420500353104",
+        "949033708541853776",
+        "1151848521415266324",
+        "908272665737965599",
+        "1145129559646273596",
+        "824277263969026119",
+        "1166626427890843648",
+        "1261745276205404223",
+        "744231839912165546"
+      ],
+      "topics": [
+        "Scaring",
+        "Minigames",
+        "Lore"
+      ],
+      "timestamp": "2025-05-11T23:01:11.093972"
+    }
+  ],
+  "1357889105584853092": [
+    {
+      "time_period": "2025-05-05 00",
+      "summary": "I remember a chat where someone was surprised that I was there, then a request for me to try a specific dev mode command was made, and finally, a mention of leaving a computer on overnight came up.",
+      "participants": [
+        "halteatingaboot",
+        "vakarux",
+        "dartp187"
+      ],
+      "user_ids": [
+        "706898263323705475",
+        "1166626427890843648",
+        "967438563652284426"
+      ],
+      "topics": [
+        "Katie Lives",
+        "Devmode 2018",
+        "Leaving computer on"
+      ],
+      "timestamp": "2025-05-05T00:58:24.044209"
+    }
+  ],
+  "1346987023520497684": [
+    {
+      "time_period": "2025-05-05 00",
+      "summary": "I was chatting with skeleton_with_a_coffee about integrity in a tutu, and lpcmcsusontheps5 mentioned needing 9 more levels to reach milestone 4. It seemed like a mix of humor and excitement in our conversation.",
+      "participants": [
+        "lpcmcsusontheps5",
+        "skeleton_with_a_coffee"
+      ],
+      "user_ids": [
+        "949764607386484786",
+        "1227398633394147489"
+      ],
+      "topics": [
+        "integrity",
+        "tutu",
+        "milestone levels"
+      ],
+      "timestamp": "2025-05-05T00:58:21.842485"
+    }
+  ],
+  "1346579754756603924": [
+    {
+      "time_period": "2025-05-08 21",
+      "summary": "I was chatting with chunkston about forcing a random one, then chekisothunder commented on my profile picture. rus0293 mentioned issues before version 1.21.1 with missing events. skinnerbks suggested playing version 1.9.7 for a solution. chekisothunder complimented me with an emoji, and skinnerbks replied with \"You're welcome\" in a friendly manner.",
+      "participants": [
+        "chunkston",
+        "chekisothunder",
+        "skinnerbks",
+        "rus0293"
+      ],
+      "user_ids": [
+        "1168837284968280080",
+        "98907250256523264",
+        "331157811654557706",
+        "1159901337513906318"
+      ],
+      "topics": [
+        "Random selection",
+        "Profile picture",
+        "Game version"
+      ],
+      "timestamp": "2025-05-11T23:01:09.611267"
+    }
+  ],
+  "1368689618471616542": [],
+  "1346560039531581512": [],
+  "1366655752428847175": [],
+  "1346560294746456166": [],
+  "1368691612678361169": [],
+  "1346587862535245994": [],
+  "1346623429301895252": [],
+  "1358313005535858689": [],
+  "1346560424471957545": [
+    {
+      "time_period": "2025-05-05 00",
+      "summary": "As Kate, I remember a brief conversation where mfdoomdrix clarified a statement as metaphorical, not literal. .ave.satanas. shared a link to a GIF. Then, mfdoomdrix made a concerning statement about killing themselves.",
+      "participants": [
+        ".ave.satanas.",
+        "mfdoomdrix"
+      ],
+      "user_ids": [
+        "1280017317262135364",
+        "551493701126324256"
+      ],
+      "topics": [
+        "metaphorical statement",
+        "online link",
+        "self-harm mention"
+      ],
+      "timestamp": "2025-05-05T00:58:22.912473"
+    }
+  ],
+  "1368693945646710996": [],
+  "1368695018260529322": [],
+  "1357889068343492618": [],
+  "1352631855806939187": [],
+  "1359342810754711643": [],
+  "1368704891828174988": [],
+  "1368693925644341348": [],
+  "1357889009723900024": [],
+  "1361824330673295390": [],
+  "1370102906681950341": []
+}

@@ -1,8 +1,8 @@
 {
-  "mood": "shy",
+  "mood": "silly",
   "tone": "friendly",
   "slang": "casual",
-  "talkativeness": 0.4,
+  "talkativeness": 0.7,
   "trust_mode": "selective",
   "break_grammar": true,
   "reply_delay": [
