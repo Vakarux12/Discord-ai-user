@@ -18,8 +18,9 @@ def mark_message_seen(message_id):
     seen_messages.add(message_id)
 
 def update_memory(message):
+    """Store a Discord message in short term memory with some randomness."""
     # Random chance to skip memory storage entirely
-    if 0.1 > memory_storage_chance:
+    if random.random() > memory_storage_chance:
         print(f"[{datetime.now().isoformat()}] Skipped memory storage for message: {message.id}")
         return
 
@@ -42,7 +43,8 @@ def update_memory(message):
     # More aggressive duplicate detection - check last 10 messages and 30 second window
     
     # Also skip very short messages under 10 characters unless they mention Kate
-    if len(content) < 1 and "kate" not in content.lower():
+    # Skip trivial messages that don't mention Kate
+    if len(content) < 10 and "kate" not in content.lower():
         # 80% chance to skip short messages
         if random.random() < 0.8:
             print(f"[{datetime.now().isoformat()}] Skipped short message: {content}")

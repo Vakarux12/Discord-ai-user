@@ -1,0 +1,11 @@
+# Ignore runtime data and caches
+memory/
+!memory/.gitkeep
+logs/
+!logs/.gitkeep
+__pycache__/
+*.pyc
+
+# Local config
+.env
+kate/__pycache__/
