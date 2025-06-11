@@ -17,10 +17,20 @@ def has_seen_message(message_id):
 def mark_message_seen(message_id):
     seen_messages.add(message_id)
 
-def update_memory(message):
-    """Store a Discord message in short term memory with some randomness."""
-    # Random chance to skip memory storage entirely
-    if random.random() > memory_storage_chance:
+def update_memory(message, force_store=False):
+    """Store a Discord message in short term memory with some randomness.
+
+    Parameters
+    ----------
+    message : discord.Message
+        The Discord message object to store.
+    force_store : bool, optional
+        If True, bypasses the random chance check and always stores the
+        message. Defaults to ``False``.
+    """
+
+    # Random chance to skip memory storage entirely unless forced
+    if not force_store and random.random() > memory_storage_chance:
         print(f"[{datetime.now().isoformat()}] Skipped memory storage for message: {message.id}")
         return
 
