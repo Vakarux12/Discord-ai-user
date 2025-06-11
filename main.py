@@ -378,7 +378,8 @@ async def on_message(message):
             mark_message_seen(content_fingerprint)
             
             # Now we can safely add it to memory
-            update_memory(message)
+            # Force storing Kate's own messages so she can remember them later
+            update_memory(message, force_store=True)
             return
             
         if has_seen_message(message.id) or has_seen_message(content_fingerprint):
